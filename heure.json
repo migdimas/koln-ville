@@ -1,1 +1,1 @@
-{"genere":"2026-10-19T20:04:26.929Z","mode":"heure","debut":"2026-10-19T19:04:26.929Z","h":"2026-10-19 15","sessions":0,"batiments":{},"agents":[],"reps":[],"territoires":[],"envois":0,"envoisReps":0,"retours":7,"demandes":0,"soumissions":0}
+{"genere":"2026-10-19T21:05:36.913Z","mode":"heure","debut":"2026-10-19T20:05:36.913Z","h":"2026-10-19 16","sessions":2,"batiments":{"poste":1,"hq":1},"agents":["navigateur-qa"],"reps":[],"territoires":[],"envois":1,"envoisReps":0,"retours":5,"demandes":0,"soumissions":1}
